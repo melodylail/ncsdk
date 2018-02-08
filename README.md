@@ -1,3 +1,6 @@
+# Updated by Luqiang
+Note, installation scripts not work with Anaconda, please remove Anaconda configuration in your PATH or LD_LIBRARY_PATH before you run install scripts.
+
 # Intel® Movidius™ Neural Compute SDK
 This Intel® Movidius™ Neural Compute software developer kit (NCSDK) is provided for users of the [Intel® Movidius™ Neural Compute Stick](https://developer.movidius.com/) (Intel® Movidius™ NCS). It includes software tools, an API, and examples, so developers can create software that takes advantage of the accelerated neural network capability provided by the Intel Movidius NCS hardware.
 
